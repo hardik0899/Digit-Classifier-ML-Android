@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">135435522026-65ibctp1vhao7kgdgieomulmbcjhq183.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://digit-classifier-app-7523e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">135435522026</string>
+    <string name="google_api_key" translatable="false">AIzaSyA4IuXODgeHIn8M1DngD3vSoj5pf19UjUs</string>
+    <string name="google_app_id" translatable="false">1:135435522026:android:9cb01c0770d5d36e70ac93</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4IuXODgeHIn8M1DngD3vSoj5pf19UjUs</string>
+    <string name="google_storage_bucket" translatable="false">digit-classifier-app-7523e.appspot.com</string>
+    <string name="project_id" translatable="false">digit-classifier-app-7523e</string>
+</resources>
